@@ -1,4 +1,7 @@
 <script>
+var nume = [] ;
+var numepar = [] ;
+var numeimpar = [];	
 
 for (i = 0; i < 50; i++) {
 	nume = Math.floor((Math.random() * 100) + 1); 
